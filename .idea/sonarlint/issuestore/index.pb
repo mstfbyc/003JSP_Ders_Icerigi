@@ -47,11 +47,7 @@ W
 'src/main/webapp/011_Java_Beans_Form.jsp,8/a/8a0a4dc716bcea2382ec20165743b4618c645c62
 g
 7src/main/java/com/bilgeadam/javabeans/CustomerInfo.java,d/d/ddeade7938aff3645bff553bf5682dbff22b85d0
-I
-src/main/webapp/index.jsp,8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded
 ]
 -src/main/webapp/012_Java_Bean_Kayit_Formu.jsp,6/1/61f69854371dedaa71291c85665ff36b1774372e
 i
 9src/main/java/com/bilgeadam/javabeans/FormController.java,5/1/5120b7ef41349c6d295aba457e83836006c96299
-Z
-*src/main/webapp/012_Kayit_Form_Kontrol.jsp,0/c/0cb0c21b1d9963b1515da6212103ab99a7fa5048

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>JSP </title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 </head>
 <body>
@@ -57,6 +57,26 @@
     <ul class="nav flex-column">
         <li class="nav-item">
             <a class="nav-link" aria-current="page" href="011_Java_Beans_Form.jsp">Java Bean Ornek 1</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="012_Java_Bean_Kayit_Formu.jsp">Java Bean Ornek 2</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="013_Mesaj_Gonder.jsp">Java Bean Ornek 3</a>
+        </li>
+    </ul>
+    <hr>
+    <h1>Java JSTL  Tag Liberi</h1>
+    <hr>
+    <ul class="nav flex-column">
+        <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="JSTL_Core_Tags/index.jsp">JSTL CORE</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="JSTL_Format_Tags/index.jsp">JSTL FORMAT</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="JSTL_Function_Tag/index.jsp">JSTL FUNCTION</a>
         </li>
     </ul>
 
